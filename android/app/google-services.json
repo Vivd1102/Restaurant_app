@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "672370746332",
+    "project_id": "zensar-recipe-app",
+    "storage_bucket": "zensar-recipe-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672370746332:android:cb90b6d9d89d776a2b6519",
+        "android_client_info": {
+          "package_name": "com.zensar.recipeapp.zensar_recipe_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672370746332-gttp37eda985o6d7nkg0011p32trk44d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8kFwMnaNtO348jPL4xVTbgUZu-yF4ULg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672370746332-gttp37eda985o6d7nkg0011p32trk44d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
